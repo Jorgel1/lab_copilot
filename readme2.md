@@ -20,8 +20,8 @@ O Git é um conceito essencial no mercado de trabalho atualmente, por isso sempr
  
 
 # Links Importantes
-[Explore generative AI with Microsoft Copilot]([https://base10.vc/post/generative-ai-mission-critical/](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/12-generative-ai.html))
+[Explore generative AI with Microsoft Copilot](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/12-generative-ai.html)
 
-[Explore Azure OpenAI]([https://base10.vc/post/generative-ai-mission-critical/](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/13-azure-openai.html))
+[Explore Azure OpenAI](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/13-azure-openai.html)
 
-[Explore content filters in Azure OpenAI]([https://base10.vc/post/generative-ai-mission-critical/](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/14-azure-openai-content-filters.html))
+[Explore content filters in Azure OpenAI](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/14-azure-openai-content-filters.html)
