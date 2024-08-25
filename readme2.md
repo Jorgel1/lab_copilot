@@ -25,3 +25,15 @@ O Git é um conceito essencial no mercado de trabalho atualmente, por isso sempr
 [Explore Azure OpenAI](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/13-azure-openai.html)
 
 [Explore content filters in Azure OpenAI](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/14-azure-openai-content-filters.html)
+
+### Exemplos e Insigths
+
+---------------------------------------------------------------------------------------------
+
+<h2> :computer: INPUTS</h2>
+
+<img src="/inputs/Captura1.png" alt="Captura de imagem">
+
+<h2> :computer: OUTPUT</h2>
+
+<img src="/output/Captura2.png" alt="Captura de imagem">
